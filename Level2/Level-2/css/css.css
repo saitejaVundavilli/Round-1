@@ -1,0 +1,189 @@
+*{
+	margin: 0px;
+	border: 0px;
+	box-sizing: border-box;
+}
+/*body{
+	display: flex;
+	flex-wrap: wrap;
+}*/
+.img{
+	height: 35px;
+}
+.aa{
+	height: 800px;
+	width: auto;
+/*	background: red;*/
+	background-image: url("../images/start.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;}
+.head{
+	font-size: 50px;
+	font-weight: bold;
+}
+.head1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.par{
+	font-size: 18px;
+}
+.pos{
+	position: relative;
+	top: 30px;
+	left: 30px
+}	
+.bb{
+	position: relative;
+	top: 30px;
+}
+.dd{
+	position: relative;
+	left: 70px;
+
+}
+.bord{
+	border: 2px solid black;
+}
+/*.dd1{
+	position: relative;
+	bottom: 25px;
+}*/
+.snd1{
+	height: 500px;
+	background-image: url(../images/light.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.ee{
+	position: relative;
+	top: 30px;
+}
+.check{
+	font-size: 20px;
+	color: blue;
+}
+.theory{
+	font-size: 20px;
+	font-weight: 600;
+}
+.dd3{
+	position: relative;
+	left: 70px;
+	bottom: 0px;
+}
+.it{
+	height: 100px;
+}
+.it1{
+	position: relative;
+	right: 50px;
+}
+
+.cons1{
+	height: 500px;
+	background-image: url(../images/const.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.ee1{
+	height: 100px;
+	width: 300px;
+/*	background: yellow;*/
+}
+.ee2{
+	height: 200px;
+	width: 300px;
+/*	background: pink;*/
+}
+.text{
+	height:34px;
+	width: 400px;
+}
+.zz{
+	position: relative;
+	bottom:30px ;
+
+
+}
+.proj1{
+
+	height: 300px;
+	width: 350px;
+
+}
+.p{
+	height: 300px;
+	width: 350px;
+
+}
+.ts{
+	position: relative;
+	top: 20px;
+}
+.agenpic{
+	height: 800px;
+	background-image: url(../images/agency.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.get{
+	font-size: 45px;
+	color: blue;
+	font-weight: bold;
+	font-family:roboto ;
+}
+.get1{
+	font-size: 20px;
+	font-weight: bold;
+	}
+.dho{
+	height: 600px;
+	background-image: url(../images/client.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+.head11{
+	font-size: 30px;
+	font-weight: bold;
+}
+.bat{
+	position: relative;
+	top: 25px;
+	left: 100px;
+}
+.ico{
+	color: blue;
+	font-size: 20px;
+}
+.about{
+	height: 350px;
+	width: auto;
+	background: darkslategrey;
+}
+.abo{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.abo1{
+	font-size: 18px;
+	font-weight: 20;
+	color: white;
+
+}
+.ico{
+	color: blue;
+	font-size: 20px;
+}
+.abb{
+	position: relative;
+	top: 50px;
+	left: 20px;
+}
+.it1{
+	font-size: 80px;
+	position: relative;
+	left: 30px;
+	top: 0px;
+}
